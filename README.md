@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Henrique</h1>
 <p align="center">
-  <img src="https:https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" width="300" />
 </p>
 
 <p align="center">
