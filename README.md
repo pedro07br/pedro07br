@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Pedro Henrique</h1>
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/teclado-anime-gif-10627704" width="300" />
+  <img src="https:https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif" width="300" />
 </p>
 
 <p align="center">
@@ -34,4 +34,4 @@
 📫 **Contato**
 
 - ✉️ Pedro07br@gmail.com
-- 💼 linkedin.com/in/pedro07br
+- [Meu LinkedIn](https://www.linkedin.com/in/pedro07br)
