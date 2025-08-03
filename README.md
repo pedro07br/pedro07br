@@ -33,5 +33,5 @@
 
 📫 **Contato**
 
-- ✉️ pedrohenrique@email.com *(troque pelo seu e-mail real)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin) *(coloque seu LinkedIn aqui)*
+- ✉️ Pedro07br@gmail.com
+- 💼 [LinkedIn](linkedin.com/in/pedro07br)
