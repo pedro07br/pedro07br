@@ -12,14 +12,13 @@
   <a href="https://www.linkedin.com/in/pedro07br" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="/cdn-cgi/l/email-protection#f9899c9d8b96c9ce9b8bb99e94989095d79a9694">
+  <a href="mailto:pedro07br@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/pedro07br" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 ---
 
 ## 📋 Sobre Mim
