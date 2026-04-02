@@ -81,7 +81,7 @@ Com experiência em ambientes críticos, aprendi a resolver problemas complexos 
 - ✅ Banco de dados relacional robusto
 - ✅ Containerizado com Docker
 
-🔗 **[Ver no GitHub](#)** | 🌐 **[Live Demo](#)**
+🔗 **[Ver no GitHub](#https://github.com/pedro07br/Douratta)** 
 
 ---
 
