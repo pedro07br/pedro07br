@@ -182,11 +182,11 @@ Linguagens Principais:
 
 | Canal | Link |
 |-------|------|
-| 📧 **Email** | [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3d4d58594f520d0a5f4f7d5a505c5451135e5250">pedro07br@gmail.com</a> |
-| 💼 **LinkedIn** | [linkedin.com/in/pedro07br](https://www.linkedin.com/in/pedro07br) |
-| 🐙 **GitHub** | [@pedro07br](https://github.com/pedro07br) |
-| 📱 **WhatsApp** | +55 (62) 98562-0238 |
-| 📸 **Instagram** | [@pedro07br](https://www.instagram.com/pedro07br) |
+| 📧 **Email** | <a href="mailto:pedro07br@gmail.com">pedro07br@gmail.com</a> |
+| 💼 **LinkedIn** | <a href="https://www.linkedin.com/in/pedro07br" target="_blank">linkedin.com/in/pedro07br</a> |
+| 🐙 **GitHub** | <a href="https://github.com/pedro07br" target="_blank">@pedro07br</a> |
+| 📱 **WhatsApp** | <a href="https://wa.me/5562985620238" target="_blank">+55 (62) 98562-0238</a> |
+| 📸 **Instagram** | <a href="https://www.instagram.com/pedro07br" target="_blank">@pedro07br</a> |
 
 </div>
 
